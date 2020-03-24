@@ -15,6 +15,10 @@ body {
   position: relative;
   margin: 1rem auto;
 }
+.link {
+  text-decoration: none;
+  color: black;
+}
 
 .movie-director {
   padding: 4px 0;
